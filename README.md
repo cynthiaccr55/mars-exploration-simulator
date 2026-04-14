@@ -1,5 +1,9 @@
 # 🚀 Mars Exploration Simulator
 
+## 📸 Preview
+
+![Mars Simulator](screenshot.png)
+
 Interactive console-based simulation built in Python where the user controls a space mission to Mars.
 
 ---
