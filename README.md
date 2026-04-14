@@ -2,7 +2,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 # 🚀 Mars Exploration Simulator
+A simple interactive Mars mission simulator built in Python 🚀
 
+## 📌 Requirements
+- Python 3.x
+- 
 ## 📸 Preview
 
 ![Mars Simulator](screenshot.png)
